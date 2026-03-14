@@ -1,6 +1,0 @@
-resource_group_name      = "rg_dev_001"
-location                 = "eastus2"
-storage_account_name     = "ankitstorageacct01"
-account_tier             = "Standard"
-account_replication_type = "LRS"
-subscription_id          = "<Subscription id>"
